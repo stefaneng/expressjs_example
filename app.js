@@ -6,6 +6,10 @@ app.get('/', function (req, res) {
   res.send('Hello World!');
 });
 
+app.post('/hi', function(req, res) {
+  res.send('Hello world!\n');
+});
+
 // Easy
 // TODO: Send a message on /hi and /bye
 

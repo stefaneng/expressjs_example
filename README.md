@@ -1,11 +1,13 @@
 # Express.js Example
 
-Play around and make some pull requests to fix the example backend in `app.js`.
+Play around and make some pull requests to fix the example backend in [`app.js`](app.js).
+There is some example of higher order functions in [`example.js`](example.js)
 
 ## Install
 ```
 git clone ...
 npm install
+node app.js
 ```
 
 ## Fixes

@@ -1,3 +1,5 @@
+// Higher order functions in javascript
+
 var f = function(g, x) {
   return g(x) + x;
 };
