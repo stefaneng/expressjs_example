@@ -4,9 +4,9 @@
   "description": "example",
   "main": "index.js",
   "scripts": {
-    "test": "true"
+      "start": "node app.js"
   },
-  "author": "",
+  "author": "Stefan Eng",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3"

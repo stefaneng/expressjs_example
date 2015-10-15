@@ -7,7 +7,7 @@ There is some example of higher order functions in [`example.js`](example.js)
 ```
 git clone ...
 npm install
-node app.js
+npm start
 ```
 
 ## Fixes
